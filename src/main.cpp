@@ -3,7 +3,7 @@
 #include <NTPClient.h>
 #include <WiFiUdp.h>
 #include <Audio.h>
-#include "tft_setup.h"      //needs to be above TFT_eSPI?
+//#include "tft_setup.h"      //needs to be above TFT_eSPI?
 #include <TFT_eSPI.h>                 // Include the graphics library (this includes the sprite functions)
 //#include <FS.h>
 //#include <SPIFFS.h>
